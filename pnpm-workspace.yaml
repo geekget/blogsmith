@@ -1,3 +1,8 @@
+# 1. 明确告诉 pnpm 这是一个单项目工作区（包含当前根目录）
+packages:
+  - '.'
+
+# 2. 保持之前放行 esbuild 和 sharp 的安全策略不变
 allowBuilds:
   esbuild: true
   sharp: true

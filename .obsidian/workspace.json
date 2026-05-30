@@ -195,8 +195,10 @@
       "edit-mdx:New .mdx file": false
     }
   },
-  "active": "80cf1f0443472633",
+  "active": "a50ca69ea14eb56c",
   "lastOpenFiles": [
+    "pnpm-lock.yaml.3164589184",
+    "node_modules/@playform",
     "src/data/blog/tailwind-gradient-underline/index.mdx",
     "README.md",
     "Untitled 4.mdx",
@@ -221,8 +223,6 @@
     "node_modules/prismjs/CHANGELOG.md",
     "node_modules/hast-util-from-html/package.json",
     "node_modules/hast-util-from-html/index.js",
-    "node_modules/hast-util-from-html/license",
-    "node_modules/hast-util-from-html/lib/types.js",
     "node_modules/zod/README.md",
     "node_modules/hast-util-to-text/readme.md",
     "node_modules/import-meta-resolve/readme.md",

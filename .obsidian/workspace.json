@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/data/otherPages/privacy-policy.md",
-                "mode": "source",
-                "source": false
+                "file": "src/data/blog/new/index.mdx",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "privacy-policy"
+              "title": "index"
             }
           }
         ]
@@ -197,20 +197,21 @@
   },
   "active": "80cf1f0443472633",
   "lastOpenFiles": [
+    "src/data/blog/best-vscode-extensions-front-end-developers/index.mdx",
+    "src/data/blog/new/index.mdx",
+    "src/data/blog/best-vscode-extensions-front-end-developers/tailwindcss.jpg",
+    "src/data/blog/new",
+    "src/data/otherPages/privacy-policy.md",
     "src/data/otherPages/about.md",
     "src/data/otherPages/elements.mdx",
     "src/data/blog/tailwind-gradient-underline/index.mdx",
-    "src/data/blog/best-vscode-extensions-front-end-developers/index.mdx",
     "pnpm-lock.yaml.3164589184",
     "node_modules/@playform",
     "README.md",
     "Untitled 4.mdx",
     "Untitled 3.mdx",
     "Untitled 2.mdx",
-    "Untitled 1.mdx",
-    "Untitled.mdx",
     "src/data/authors/second-author/index.md",
-    "src/data/otherPages/privacy-policy.md",
     "public/favicons/mstile-150x150.png",
     "public/favicons/android-chrome-512x512.png",
     "public/favicons/android-chrome-192x192.png",
@@ -220,7 +221,6 @@
     "src/data/blog/tailwind-gradient-underline/spongebob-transitions.jpeg",
     "src/data/blog/best-vscode-extensions-front-end-developers/color-highlight.jpg",
     "src/data/blog/best-vscode-extensions-front-end-developers/auto-rename-tag.gif",
-    "src/data/blog/best-vscode-extensions-front-end-developers/astro.jpg",
     "node_modules/prismjs/CHANGELOG.md",
     "node_modules/zod/README.md",
     "node_modules/hast-util-to-text/readme.md",

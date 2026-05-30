@@ -1,69 +1,24 @@
-import mdx from "@astrojs/mdx";
-import sitemap from "@astrojs/sitemap";
-import compress from "@playform/compress";
-import tailwindcss from "@tailwindcss/vite";
-import { defineConfig } from "astro/config";
-import AutoImport from "astro-auto-import";
-import icon from "astro-icon"; // https://www.astroicon.dev/guides/upgrade/v1/
-import cloudflare from '@astrojs/cloudflare'; // 1. 引入适配器
+import { defineConfig } from 'astro/config';
+import tailwind from '@astrojs/tailwind';
+import mdx from '@astrojs/mdx';
+import sitemap from '@astrojs/sitemap';
+import cloudflare from '@astrojs/cloudflare';
 
-// https://astro.build/config
+// https://astro.build
 export default defineConfig({
-	site: "https://blog.599722.xyz",
-	integrations: [tailwind(), mdx()],
-	  output: 'server', // 3. 开启 SSR 模式（方便后续做动态路由重定向）
-	  adapter: cloudflare(), // 4. 配置适配器
-	});
-	
-	markdown: {
-		shikiConfig: {
-			theme: "dracula",
-			wrap: true,
-		},
-	},
-	integrations: [
-		// example auto import component into blog post mdx files
-		AutoImport({
-			imports: [
-				// https://github.com/delucis/astro-auto-import
-				"@components/Admonition/Admonition.astro",
-			],
-		}),
-		mdx(),
-		icon({
-			// I include only the icons I use. This is because if you use SSR, ALL icons will be included (no bueno)
-			// https://www.astroicon.dev/reference/configuration#include
-			include: {
-				tabler: [
-					"bulb",
-					"alert-triangle",
-					"flame",
-					"info-circle",
-					"arrow-narrow-left",
-					"arrow-narrow-right",
-					"menu-2",
-					"x",
-					"chevron-down",
-					"category",
-					"calendar-event",
-				],
-			},
-		}),
-		sitemap(),
-		compress({
-			HTML: true,
-			JavaScript: true,
-			CSS: false,
-			Image: false, // astro:assets handles this. Enabling this can dramatically increase build times
-			SVG: false, // astro-icon handles this
-		}),
-	],
+  // 1. 将下面的网址替换为你购买的联盟站英文域名（暂时不改也不影响打包）
+  site: 'https://blog.599722.xyz',
+  
+  // 2. 开启 SSR 服务端渲染模式，方便后续做 /go/ 联盟链接动态短网址重定向
+  output: 'server',
+  
+  // 3. 配置 Cloudflare 官方适配器
+  adapter: cloudflare(),
 
-	vite: {
-		plugins: [tailwindcss()],
-		// stop inlining short scripts to fix issues with ClientRouter: https://github.com/withastro/astro/issues/12804
-		build: {
-			assetsInlineLimit: 0,
-		},
-	},
+  // 4. 完美融合 Blogsmith Free 依赖的各种核心插件
+  integrations: [
+    tailwind(),
+    mdx(),
+    sitemap(),
+  ],
 });

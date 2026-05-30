@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "5341fc4e992a7d81",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa8cb0ca786f9ee9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80cf1f0443472633",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/data/blog/best-vscode-extensions-front-end-developers/index.mdx",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de0cd5cca00339e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7fe1417426bcbb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dd5ba8ad4c0d10e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "abbbc5d799be9270",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "eea376b9919a5c13",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3fd36a1a188af894",
+    "type": "split",
+    "children": [
+      {
+        "id": "78bccc5f2c673178",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3f09dc28392ef93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "src/data/authors/second-author/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "index 的反向链接列表"
+            }
+          },
+          {
+            "id": "75741129c2681431",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "src/data/authors/second-author/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "index 的出链列表"
+            }
+          },
+          {
+            "id": "5002ac6dd5be6ab6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "dacaabd440fda506",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "a8afc08ee2e89922",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/data/authors/second-author/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "index 的大纲"
+            }
+          },
+          {
+            "id": "a50ca69ea14eb56c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 556.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "edit-mdx:New .mdx file": false
+    }
+  },
+  "active": "80cf1f0443472633",
+  "lastOpenFiles": [
+    "src/data/blog/tailwind-gradient-underline/index.mdx",
+    "README.md",
+    "Untitled 4.mdx",
+    "Untitled 3.mdx",
+    "Untitled 2.mdx",
+    "Untitled 1.mdx",
+    "Untitled.mdx",
+    "src/data/authors/second-author/index.md",
+    "src/data/otherPages/privacy-policy.md",
+    "src/data/otherPages/about.md",
+    "public/favicons/mstile-150x150.png",
+    "public/favicons/android-chrome-512x512.png",
+    "public/favicons/android-chrome-192x192.png",
+    "src/data/authors/second-author/web-reaper.jpg",
+    "src/data/blog/tsconfig-paths-setup/tsconfig-path-setup.jpeg",
+    "src/data/blog/tailwind-gradient-underline/tailwind-gradient-underline.jpeg",
+    "src/data/blog/tailwind-gradient-underline/spongebob-transitions.jpeg",
+    "src/data/blog/best-vscode-extensions-front-end-developers/color-highlight.jpg",
+    "src/data/blog/best-vscode-extensions-front-end-developers/auto-rename-tag.gif",
+    "src/data/blog/best-vscode-extensions-front-end-developers/astro.jpg",
+    "pnpm-workspace.yaml",
+    "node_modules/prismjs/CHANGELOG.md",
+    "node_modules/hast-util-from-html/package.json",
+    "node_modules/hast-util-from-html/index.js",
+    "node_modules/hast-util-from-html/license",
+    "node_modules/hast-util-from-html/lib/types.js",
+    "node_modules/zod/README.md",
+    "node_modules/hast-util-to-text/readme.md",
+    "node_modules/import-meta-resolve/readme.md",
+    "node_modules/js-yaml/README.md",
+    "node_modules/mdast-util-definitions/readme.md",
+    "node_modules/remark-rehype/readme.md",
+    "node_modules/github-slugger/README.md",
+    "node_modules/rehype-stringify/readme.md",
+    "node_modules/smol-toml/README.md",
+    "node_modules/remark-parse/readme.md",
+    "node_modules/unified/readme.md",
+    "node_modules/unist-util-remove-position/readme.md",
+    "node_modules/csso/README.md",
+    "node_modules/@types/estree-jsx/README.md",
+    "node_modules/fast-xml-parser/README.md",
+    "node_modules/fast-xml-parser/CHANGELOG.md",
+    "node_modules/stream-replace-string/README.md",
+    "node_modules/@types/estree/README.md",
+    "node_modules/@types/mdx/README.md",
+    "node_modules/estree-walker/README.md"
+  ]
+}

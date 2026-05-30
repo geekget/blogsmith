@@ -16,11 +16,11 @@ export interface SiteDataProps {
 
 // Update this file with your site specific information
 const siteData: SiteDataProps = {
-	name: "Blogsmith",
+	name: "BlogTech",
 	// Your website's title and description (meta fields)
-	title: "Blogsmith - a beautiful starter blog template using Astro and Tailwind CSS",
+	title: "Smart Home Gear Reviews & Buying Guides (2026) | TechNest",
 	description:
-		"Get your new blog website up and running quickly with our beautiful website theme designed using Astro and Tailwind CSS. Perfect for freelancers, developers, startups, and personal use.",
+		"Looking for the best smart home automation devices? Read our unbiased, hands-on reviews and comparison guides to upgrade your home and save money.",
 	useViewTransitions: true,
 	// Your information!
 	author: {

@@ -5,10 +5,16 @@ import tailwindcss from "@tailwindcss/vite";
 import { defineConfig } from "astro/config";
 import AutoImport from "astro-auto-import";
 import icon from "astro-icon"; // https://www.astroicon.dev/guides/upgrade/v1/
+import cloudflare from '@astrojs/cloudflare'; // 1. 引入适配器
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://blogsmithfree.cosmicthemes.com",
+	site: "https://blog.599722.xyz",
+	integrations: [tailwind(), mdx()],
+	  output: 'server', // 3. 开启 SSR 模式（方便后续做动态路由重定向）
+	  adapter: cloudflare(), // 4. 配置适配器
+	});
+	
 	markdown: {
 		shikiConfig: {
 			theme: "dracula",

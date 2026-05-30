@@ -195,8 +195,10 @@
       "edit-mdx:New .mdx file": false
     }
   },
-  "active": "80cf1f0443472633",
+  "active": "3dd5ba8ad4c0d10e",
   "lastOpenFiles": [
+    "src/data/blog/new-test-index/123.png",
+    "src/data/blog/new-test-index/80538a66-8919-4ff3-9b6f-2275b0e03afe.png",
     "src/data/blog/best-vscode-extensions-front-end-developers/index.mdx",
     "src/data/blog/best-vscode-extensions-front-end-developers/vscode-extensions.jpeg",
     "src/data/blog/best-vscode-extensions-front-end-developers/tailwindcss.jpg",
@@ -207,7 +209,6 @@
     "src/data/blog/best-vscode-extensions-front-end-developers/github-copilot.gif",
     "src/data/blog/best-vscode-extensions-front-end-developers/eslint.jpg",
     "src/data/blog/best-vscode-extensions-front-end-developers/es7.jpg",
-    "src/data/blog/best-vscode-extensions-front-end-developers/dracula.jpg",
     "src/data/blog/new-test-index/index.mdx",
     "src/data/blog/new/index.mdx",
     "src/data/blog/new-test-index",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/data/blog/new-test-index/index.mdx",
-                "mode": "source",
+                "file": "src/data/blog/12434/I Shopped for Stadium Bags So You Don’t Have To.mdx",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "I Shopped for Stadium Bags So You Don’t Have To"
             }
           }
         ]
@@ -195,8 +195,13 @@
       "edit-mdx:New .mdx file": false
     }
   },
-  "active": "3dd5ba8ad4c0d10e",
+  "active": "80cf1f0443472633",
   "lastOpenFiles": [
+    "src/data/blog/new-test-index/未命名.md",
+    "src/data/blog/12434/I Shopped for Stadium Bags So You Don’t Have To.mdx",
+    "src/data/blog/12434",
+    "src/data/blog/new-test-index/The Best Neck Fans.mdx",
+    "src/data/blog/new-test-index/未命名",
     "src/data/blog/new-test-index/123.png",
     "src/data/blog/new-test-index/80538a66-8919-4ff3-9b6f-2275b0e03afe.png",
     "src/data/blog/best-vscode-extensions-front-end-developers/index.mdx",
@@ -208,8 +213,6 @@
     "src/data/blog/best-vscode-extensions-front-end-developers/gitlens.jpg",
     "src/data/blog/best-vscode-extensions-front-end-developers/github-copilot.gif",
     "src/data/blog/best-vscode-extensions-front-end-developers/eslint.jpg",
-    "src/data/blog/best-vscode-extensions-front-end-developers/es7.jpg",
-    "src/data/blog/new-test-index/index.mdx",
     "src/data/blog/new/index.mdx",
     "src/data/blog/new-test-index",
     "src/data/blog/new",
@@ -217,10 +220,7 @@
     "src/data/otherPages/about.md",
     "src/data/otherPages/elements.mdx",
     "src/data/blog/tailwind-gradient-underline/index.mdx",
-    "pnpm-lock.yaml.3164589184",
-    "node_modules/@playform",
     "README.md",
-    "Untitled 4.mdx",
     "src/data/authors/second-author/index.md",
     "node_modules/prismjs/CHANGELOG.md",
     "node_modules/zod/README.md",
@@ -241,7 +241,6 @@
     "node_modules/fast-xml-parser/CHANGELOG.md",
     "node_modules/stream-replace-string/README.md",
     "node_modules/@types/estree/README.md",
-    "node_modules/@types/mdx/README.md",
-    "node_modules/estree-walker/README.md"
+    "node_modules/@types/mdx/README.md"
   ]
 }

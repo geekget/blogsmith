@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/data/blog/best-portable-ssd/The Best Portable SSD.mdx",
+                "file": "src/data/blog/best-wi-fi-router/index.mdx",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Best Portable SSD"
+              "title": "index"
             }
           }
         ]
@@ -199,9 +199,10 @@
   },
   "active": "80cf1f0443472633",
   "lastOpenFiles": [
-    "src/data/blog/best-portable-ssd/head.png",
+    "src/data/blog/best-wi-fi-mesh-networking-kits/index.mdx",
     "src/data/blog/best-network-attached-storage/index.mdx",
     "src/data/blog/best-portable-ssd/The Best Portable SSD.mdx",
+    "src/data/blog/best-portable-ssd/head.png",
     "src/data/authors/second-author/web-reaper.jpg",
     "src/data/blog/best-portable-ssd",
     "src/data/authors/second-author/index.md",
@@ -212,7 +213,6 @@
     "src/data/otherPages/elements.mdx",
     "src/data/otherPages/about.md",
     "src/data/blog/best-network-attached-storage/head.png",
-    "src/data/blog/best-wi-fi-mesh-networking-kits/index.mdx",
     "src/data/blog/best-network-attached-storage",
     "src/data/blog/tsconfig-paths-setup/index.mdx",
     "src/data/blog/best-wi-fi-router/index.mdx",
@@ -224,7 +224,6 @@
     "src/data/blog/new-test-index/未命名.md",
     "src/data/blog/new-test-index/123.png",
     "src/data/blog/new-test-index/80538a66-8919-4ff3-9b6f-2275b0e03afe.png",
-    "src/data/blog/best-vscode-extensions-front-end-developers/vscode-extensions.jpeg",
     "node_modules/prismjs/CHANGELOG.md",
     "node_modules/zod/README.md",
     "node_modules/hast-util-to-text/readme.md",

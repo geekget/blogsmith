@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/data/blog/tsconfig-paths-setup/index.mdx",
+                "file": "src/data/blog/best-wi-fi-mesh-networking-kits/index.mdx",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "index"
@@ -199,13 +199,13 @@
   },
   "active": "80cf1f0443472633",
   "lastOpenFiles": [
-    "src/data/blog/best-network-attached-storage/This Might Be the Seamless Data Storage Solution You've Been Missing.mdx",
     "src/data/blog/tsconfig-paths-setup/index.mdx",
+    "src/data/blog/best-wi-fi-mesh-networking-kits/index.mdx",
+    "src/data/blog/best-wi-fi-router/index.mdx",
     "src/data/blog/tsconfig-paths-setup/tsconfig-path-setup.jpeg",
+    "src/data/blog/best-network-attached-storage/This Might Be the Seamless Data Storage Solution You've Been Missing.mdx",
     "src/data/blog/new-test-index/The Best Neck Fans.mdx",
-    "src/data/blog/best-wi-fi-mesh-networking-kits/The Best Wi-Fi Mesh-Networking Systems.mdx",
     "src/data/blog/best-wi-fi-mesh-networking-kits/head.png",
-    "src/data/blog/best-wi-fi-router/The Best Wi-Fi Routers.mdx",
     "src/data/blog/best-wi-fi-router/head.png",
     "src/data/blog/shopp-for-bags/index.mdx",
     "src/data/blog/best-network-attached-storage",

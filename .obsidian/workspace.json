@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/data/blog/best-wi-fi-router/The Best Wi-Fi Routers.mdx",
-                "mode": "source",
+                "file": "src/data/blog/best-wi-fi-mesh-networking-kits/The Best Wi-Fi Mesh-Networking Systems.mdx",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Best Wi-Fi Routers"
+              "title": "The Best Wi-Fi Mesh-Networking Systems"
             }
           }
         ]
@@ -199,19 +199,19 @@
   },
   "active": "80cf1f0443472633",
   "lastOpenFiles": [
-    "src/data/blog/tsconfig-paths-setup/index.mdx",
+    "src/data/blog/best-wi-fi-mesh-networking-kits/head.png",
     "src/data/blog/best-wi-fi-router/The Best Wi-Fi Routers.mdx",
     "src/data/blog/best-wi-fi-router/head.png",
+    "src/data/blog/best-wi-fi-mesh-networking-kits/The Best Wi-Fi Mesh-Networking Systems.mdx",
+    "src/data/blog/tsconfig-paths-setup/index.mdx",
     "src/data/blog/shopp-for-bags/index.mdx",
     "src/data/blog/best-network-attached-storage/This Might Be the Seamless Data Storage Solution You've Been Missing.mdx",
-    "src/data/blog/best-wi-fi-mesh-networking-kits/The Best Wi-Fi Mesh-Networking Systems.mdx",
     "src/data/blog/best-network-attached-storage",
     "src/data/blog/best-wi-fi-router",
     "src/data/blog/new-test-index/The Best Neck Fans.mdx",
     "src/data/blog/best-wi-fi-mesh-networking-kits/Untitled 1.mdx",
     "src/data/blog/best-wi-fi-mesh-networking-kits",
     "src/data/blog/new-test-index/未命名.md",
-    "src/data/blog/shopp-for-bags",
     "src/data/blog/new-test-index/123.png",
     "src/data/blog/new-test-index/80538a66-8919-4ff3-9b6f-2275b0e03afe.png",
     "src/data/blog/best-vscode-extensions-front-end-developers/vscode-extensions.jpeg",

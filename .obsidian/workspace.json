@@ -11,14 +11,12 @@
             "id": "80cf1f0443472633",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "src/data/blog/best-network-attached-storage/index.mdx",
-                "mode": "source",
-                "source": false
+                "file": "src/data/authors/second-author/web-reaper.jpg"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "web-reaper"
             }
           }
         ]
@@ -199,9 +197,15 @@
   },
   "active": "80cf1f0443472633",
   "lastOpenFiles": [
+    "src/data/authors/second-author/index.md",
+    "src/assets/images/site-logo.png",
+    "README.md",
+    "Pasted image 20260530225603.png",
+    "src/data/otherPages/privacy-policy.md",
+    "src/data/otherPages/elements.mdx",
+    "src/data/otherPages/about.md",
+    "src/data/blog/best-network-attached-storage/index.mdx",
     "src/data/blog/best-network-attached-storage/head.png",
-    "src/data/blog/best-network-attached-storage/index.mdx",
-    "src/data/blog/best-network-attached-storage/index.mdx",
     "src/data/blog/best-wi-fi-mesh-networking-kits/index.mdx",
     "src/data/blog/best-network-attached-storage",
     "src/data/blog/tsconfig-paths-setup/index.mdx",
@@ -218,13 +222,6 @@
     "src/data/blog/new-test-index/80538a66-8919-4ff3-9b6f-2275b0e03afe.png",
     "src/data/blog/best-vscode-extensions-front-end-developers/vscode-extensions.jpeg",
     "src/data/blog/best-vscode-extensions-front-end-developers/tailwindcss.jpg",
-    "src/data/blog/best-vscode-extensions-front-end-developers/pretty-typescript-errors.jpg",
-    "src/data/blog/best-vscode-extensions-front-end-developers/material-icon.jpg",
-    "src/data/blog/best-vscode-extensions-front-end-developers/prettier.gif",
-    "src/data/otherPages/privacy-policy.md",
-    "src/data/otherPages/about.md",
-    "README.md",
-    "src/data/authors/second-author/index.md",
     "node_modules/prismjs/CHANGELOG.md",
     "node_modules/zod/README.md",
     "node_modules/hast-util-to-text/readme.md",
